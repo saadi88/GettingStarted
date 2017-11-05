@@ -9,8 +9,9 @@ public class Main {
 	System.out.println("name of Fruit is " + f.getName());
 	System.out.println("Second Checkin");
 
-        System.out.println("4th  Checkin");
-        System.out.println("John's  Checkin");
-        System.out.println("Mary's Checkin");
+  System.out.println("4th  Checkin");
+  System.out.println("John's  Checkin");
+  System.out.println("Mary's Checkin");
+
     }
 }
