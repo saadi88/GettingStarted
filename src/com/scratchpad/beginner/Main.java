@@ -1,4 +1,6 @@
 package com.scratchpad.beginner;
+import com.scratchpad.vegetable.IVegetable;
+import com.scratchpad.vegetable.Tomato;
 
 public class Main {
 
@@ -11,6 +13,10 @@ public class Main {
 
         System.out.println("4th  Checkin");
 		System.out.println("John's  Checkin");
+
+		IVegetable v = new Tomato();
+
+		System.out.println("Veggie here: " + v.getName());
 
     }
 }
